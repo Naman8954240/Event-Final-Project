@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Jerisha Charls\Source\Repos\Naman8954240\Event-Final-Project\Event Final Project\obj\Debug\net6.0-windows\
+C:\Users\Jerisha Charls\Source\Repos\Naman8954240\Event-Final-Project\Event Final Project\obj\Release\net6.0-windows\
 Event_Final_Project
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\Jerisha Charls\Source\Repos\Naman8954240\Event-Final-Project\Event Final Project\App.xaml
 6-1835277893
 
