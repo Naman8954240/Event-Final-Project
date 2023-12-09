@@ -24,5 +24,26 @@ namespace Event_Final_Project
         {
             InitializeComponent();
         }
+
+        private void BtnClickRegister(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new Register();
+        }
+        private void BtnClickProducts(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new Products();
+        }
+        private void BtnClickFeedback(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new Feedback();
+        }
+        private void BtnClickContact(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new Contact();
+        }
+        private void BtnClickAbout(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new About();
+        }
     }
 }
